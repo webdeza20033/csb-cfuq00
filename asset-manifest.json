@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://webdeza20033.github.io/csb-cfuq00/static/css/main.23fad1cf.chunk.css",
+    "main.js": "https://webdeza20033.github.io/csb-cfuq00/static/js/main.f723c78c.chunk.js",
+    "main.js.map": "https://webdeza20033.github.io/csb-cfuq00/static/js/main.f723c78c.chunk.js.map",
+    "runtime-main.js": "https://webdeza20033.github.io/csb-cfuq00/static/js/runtime-main.a4fe4c2d.js",
+    "runtime-main.js.map": "https://webdeza20033.github.io/csb-cfuq00/static/js/runtime-main.a4fe4c2d.js.map",
+    "static/js/2.382fce38.chunk.js": "https://webdeza20033.github.io/csb-cfuq00/static/js/2.382fce38.chunk.js",
+    "static/js/2.382fce38.chunk.js.map": "https://webdeza20033.github.io/csb-cfuq00/static/js/2.382fce38.chunk.js.map",
+    "index.html": "https://webdeza20033.github.io/csb-cfuq00/index.html",
+    "static/css/main.23fad1cf.chunk.css.map": "https://webdeza20033.github.io/csb-cfuq00/static/css/main.23fad1cf.chunk.css.map",
+    "static/js/2.382fce38.chunk.js.LICENSE.txt": "https://webdeza20033.github.io/csb-cfuq00/static/js/2.382fce38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4fe4c2d.js",
+    "static/js/2.382fce38.chunk.js",
+    "static/css/main.23fad1cf.chunk.css",
+    "static/js/main.f723c78c.chunk.js"
+  ]
+}
